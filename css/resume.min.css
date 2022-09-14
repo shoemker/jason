@@ -6,8 +6,10 @@
 
 
  #fa-resume {
-	height: 76px;
-	width: 73px;
+	height: 70px;
+	width: 70px;
+	position: relative;
+	bottom: 4px;
 	/* vertical-align: -1px; */
 }
 
